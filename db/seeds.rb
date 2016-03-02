@@ -8,7 +8,7 @@ Book.create!([{
                 ",
   amazon_id: "1234567891",
   rating: 5,
-  finished_on: 4.days.ago
+  finished_on: 1.day.ago
 },
 {
   title: "Domofon",
